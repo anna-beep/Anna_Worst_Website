@@ -1,0 +1,28 @@
+
+h1 {
+    color: blue;
+    font-family: verdana;
+    text-align: center;
+    font-size: 300%;
+}
+
+h3{
+    font-size: 300%;
+    color: green;
+    display: inline;
+}
+
+h2{
+    color: green;
+    font-family: Capitals;
+    text-align: right;
+    font-size: 200%;
+}
+
+
+b2 {
+    font-family: initial;
+}
+
+
+
